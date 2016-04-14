@@ -3,7 +3,8 @@
 
 # 代码
 
-<pre><code>package main
+```golang
+package main
 
 import (
 	"fmt"
@@ -32,4 +33,5 @@ func maxSubSeqSum(seq []int) int {
 		}
 	}
 	return maxSum
-}</code></pre>
+}
+```
